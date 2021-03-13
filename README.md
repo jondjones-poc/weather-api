@@ -5,7 +5,7 @@ Call this API with a `postcode` query-string parameter to see what the current w
 - [https://api.darksky.net/](https://api.darksky.net/)
 - [https://api.postcodes.io](https://api.postcodes.io)
 
-Example: [https://weather-api-poc.netlify.app/.netlify/functions/get-weather?postcode=bh65nw](https://weather-api-poc.netlify.app/.netlify/functions/get-weather?postcode=bh65nw)
+Example: [https://weather-api-poc.netlify.app/.netlify/functions/get-weather?postcode=bh65nw](https://weather-api-poc.netlify.app/.netlify/functions/get-weather?postcode=bh11ph)
 
 **API URL**: [https://weather-api-poc.netlify.app/.netlify/functions/get-weather](https://weather-api-poc.netlify.app/.netlify/functions/get-weather)
 
