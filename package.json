@@ -13,7 +13,7 @@
   "author": "J Jones",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "netlify-lambda": "^2.0.3",
     "request": "^2.88.2",
     "yargs": "^11.0.0"
