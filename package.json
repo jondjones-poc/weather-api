@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Display the local weather conditions",
+  "main": "app.js",
+  "scripts": {
+    "start-api": "netlify-lambda serve functions",
+    "build": "netlify-lambda install"
+  },
+  "keywords": [
+    "weather",
+    "async"
+  ],
+  "author": "J Jones",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "netlify-lambda": "^2.0.3",
+    "request": "^2.88.2",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "expect": "^22.4.3"
+  }
+}
